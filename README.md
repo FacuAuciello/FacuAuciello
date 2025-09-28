@@ -12,6 +12,8 @@
 - 👾 Fuera de lo tecnico, me gusta 🎮 jugar videojuegos y 🏊‍♂️ nadar.
 - 📫 Contactame en: facundoauciello@gmail.com
 <br>
+<img src="https://img.shields.io/badge/Natación-🏊‍♂️-blue?style=for-the-badge">
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
