@@ -7,8 +7,8 @@
 <br><br>
 
 - 🎓 Estudiante de Tecnicatura Universitaria en Programación (UTN).
-- 👨‍🏫 Soy Profesor de Educacion Fisica, lo que me da experiencia para trabajar en equipo, liderar grupos y comunicar ideas de manera clara.
 - 🚀 Estoy ampliando mis conocimientos en el desarrollo back-end.
+- 👨‍🏫 Soy Profesor de Educacion Fisica, lo que me da experiencia para trabajar en equipo, liderar grupos y comunicar ideas de manera clara.
 - 👾 Fuera de lo tecnico, me gusta 🎮 jugar videojuegos y 🏊‍♂️ nadar.
 - 📫 Contactame en: facundoauciello@gmail.com
 <br>
